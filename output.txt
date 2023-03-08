@@ -1,0 +1,5113 @@
+
+--------------------------------------------------
+--------------------------------------------------
+Busca asignada: webcam 7 -401
+Resultados obtidos
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644  HTTP Server version 2.0 - TELDAT S.A., A10WS/ ...[TRUNCATED]
+	 Content-Type: text/html; charset=UTF-8
+	 Date: Wed, 08 Mar 2023 09:55:16 GMT
+	 Content-Length: 56859
+
+Organización á que pertence: Linode, LLC
+Ubicación do dispositivo: London, United Kingdom
+Portos detectados por Shodan:
+	 22
+	 80
+	 81
+	 443
+	 7001
+	 7547
+	 8080
+	 8081
+	 8181
+	 8443
+	 8888
+	 9000
+	 10000
+	 37215
+	 49152
+	 50000
+	 52869
+	 60001
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644  HTTP Server version 2.0 - TELDAT S.A., A10WS/ ...[TRUNCATED]
+	 Content-Type: text/html; charset=UTF-8
+	 Date: Wed, 08 Mar 2023 09:06:50 GMT
+	 Content-Length: 56859
+
+Organización á que pertence: Linode, LLC
+Ubicación do dispositivo: Atlanta, United States
+Portos detectados por Shodan:
+	 22
+	 80
+	 81
+	 443
+	 7001
+	 8080
+	 8081
+	 8181
+	 8443
+	 8888
+	 9000
+	 37215
+	 49152
+	 50000
+	 52869
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 08:46:39 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=7f0021d4h3ecdh4b1fh9597hc9e01184de9d;
+	 Content-Length: 56565
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: North Bergen, United States
+Portos detectados por Shodan:
+	 21
+	 22
+	 80
+	 3306
+	 6379
+	 9000
+	 9001
+	 9002
+	 9003
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 08:45:37 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=da5770d3x91b3x4416x9e29x8dc4087cdc3a;
+	 Content-Length: 56560
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Amsterdam, Netherlands
+Portos detectados por Shodan:
+	 22
+	 80
+	 111
+	 1433
+	 5000
+	 6379
+	 9000
+	 9004
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Connection: close
+	 Content-Type: text/html; charset=utf-8
+	 Content-Length: 2160
+	 Cache-control: no-cache, must revalidate
+	 Date: Wed, 08 Mar 2023 08:28:01 GMT
+	 Expires: Wed, 08 Mar 2023 08:28:01 GMT
+	 Pragma: no-cache
+	 Server: webcam 7
+
+Organización á que pertence: GENERAL COMMUNICATION, INC.
+Ubicación do dispositivo: Anchorage, United States
+Portos detectados por Shodan:
+	 8080
+	 8082
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 08:16:36 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=81d98e88l9dbel4868l926el20a2b286749c;
+	 Content-Length: 56558
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Doddaballapura, India
+Portos detectados por Shodan:
+	 21
+	 22
+	 80
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 9000
+	 9001
+	 9002
+	 9006
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2016-20012
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 08:16:35 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=a643b2bcpea29p4a4cpa780p4d34a644e1f7;
+	 Content-Length: 56556
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Sydney, Australia
+Portos detectados por Shodan:
+	 22
+	 23
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 8001
+	 8080
+	 9000
+	 9001
+	 9002
+	 9003
+	 9006
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2016-20012
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 08:06:23 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=22417bd4mccbam4297m890amd4ab165a42a9;
+	 Content-Length: 56560
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Doddaballapura, India
+Portos detectados por Shodan:
+	 21
+	 80
+	 111
+	 1022
+	 5000
+	 6379
+	 8080
+	 9000
+	 9002
+	 9004
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-20012
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-14145
+	 CVE-2020-15049
+	 CVE-2020-15778
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Connection: close
+	 Content-Type: text/html; charset=utf-8
+	 Content-Length: 7573
+	 Cache-control: no-cache, must revalidate
+	 Date: Wed, 08 Mar 2023 07:57:07 GMT
+	 Expires: Wed, 08 Mar 2023 07:57:07 GMT
+	 Pragma: no-cache
+	 Server: webcam 7
+
+Organización á que pertence: TRUF d.o.o.
+Ubicación do dispositivo: Surčin, Serbia
+Portos detectados por Shodan:
+	 8080
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Sydney, Australia
+Portos detectados por Shodan:
+	 22
+	 23
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 8001
+	 8080
+	 9000
+	 9001
+	 9002
+	 9003
+	 9006
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2016-20012
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 07:03:55 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=564a194aicae7i4decia6c8i8bd7b386bc18;
+	 Content-Length: 56549
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: North Bergen, United States
+Portos detectados por Shodan:
+	 21
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 8080
+	 9000
+	 9003
+	 9004
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-20012
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-14145
+	 CVE-2020-15049
+	 CVE-2020-15778
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Doddaballapura, India
+Portos detectados por Shodan:
+	 22
+	 80
+	 111
+	 6379
+	 8088
+	 9000
+	 9002
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644  HTTP Server version 2.0 - TELDAT S.A., A10WS/ ...[TRUNCATED]
+	 Content-Type: text/html; charset=UTF-8
+	 Date: Wed, 08 Mar 2023 06:26:40 GMT
+	 Content-Length: 56859
+
+Organización á que pertence: Scaleway - Warsaw, Poland
+Ubicación do dispositivo: Warsaw, Poland
+Portos detectados por Shodan:
+	 22
+	 23
+	 80
+	 81
+	 443
+	 7001
+	 7547
+	 8080
+	 8181
+	 8443
+	 8888
+	 9000
+	 10000
+	 49152
+	 50000
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Singapore, Singapore
+Portos detectados por Shodan:
+	 21
+	 22
+	 23
+	 80
+	 111
+	 1022
+	 3306
+	 5000
+	 6379
+	 8080
+	 8088
+	 9000
+	 9001
+	 9002
+	 9003
+	 9004
+	 9005
+	 9006
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-20012
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-14145
+	 CVE-2020-15049
+	 CVE-2020-15778
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644  HTTP Server version 2.0 - TELDAT S.A., A10WS/ ...[TRUNCATED]
+	 Content-Type: text/html; charset=UTF-8
+	 Date: Wed, 08 Mar 2023 06:20:50 GMT
+	 Content-Length: 56859
+
+Organización á que pertence: Linode, LLC
+Ubicación do dispositivo: London, United Kingdom
+Portos detectados por Shodan:
+	 22
+	 80
+	 81
+	 443
+	 7001
+	 7547
+	 8080
+	 8081
+	 8181
+	 8443
+	 8888
+	 9000
+	 10000
+	 37215
+	 49152
+	 50000
+	 52869
+	 60001
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 06:19:49 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=c128991acee12c49adc8139c908bf958edcc;
+	 Content-Length: 56558
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: North Bergen, United States
+Portos detectados por Shodan:
+	 21
+	 22
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 8080
+	 9000
+	 9001
+	 9002
+	 9004
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-20012
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-14145
+	 CVE-2020-15049
+	 CVE-2020-15778
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Singapore, Singapore
+Portos detectados por Shodan:
+	 22
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 8080
+	 8088
+	 9000
+	 9002
+	 9003
+	 9004
+	 9005
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-20012
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-14145
+	 CVE-2020-15049
+	 CVE-2020-15778
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 06:08:12 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=dfce90f4zbca0z4aa8z8effzdf966ce11bfc;
+	 Content-Length: 56553
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Singapore, Singapore
+Portos detectados por Shodan:
+	 21
+	 22
+	 23
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 5000
+	 6379
+	 8001
+	 8080
+	 9000
+	 9001
+	 9002
+	 9004
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-20012
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-14145
+	 CVE-2020-15049
+	 CVE-2020-15778
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 05:59:31 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=9767ab8fxfd1ax478cx9bb8xcd887402348f;
+	 Content-Length: 56588
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: Singapore, Singapore
+Portos detectados por Shodan:
+	 22
+	 80
+	 111
+	 1022
+	 1433
+	 3306
+	 6379
+	 8000
+	 8088
+	 9000
+	 9001
+	 9002
+	 9004
+	 9005
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2016-20012
+	 CVE-2017-15906
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-20685
+	 CVE-2018-5407
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-36368
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-41617
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: 360 web server, 792/71644 HTTP Server version 2.0 - TELDAT S.A., A10WS/1 ...[TRUNCATED]
+	 Date: Wed, 08 Mar 2023 05:43:04 GMT
+	 Connection: close
+	 X-XSS-Protection: 1; mode=block
+	 Pragma: no-cache
+	 X-Frame-Options: SAMEORIGIN
+	 Expires: -1
+	 Content-Type: text/html
+	 Cache-Control:: no-cache, no-store, must-revalidate
+	 Set-Cookie: SESSI0NID=484bed76we147w4808w918dw12770545e6f6;
+	 Content-Length: 56569
+
+Organización á que pertence: DigitalOcean, LLC
+Ubicación do dispositivo: North Bergen, United States
+Portos detectados por Shodan:
+	 21
+	 22
+	 80
+	 111
+	 1433
+	 3306
+	 5000
+	 6379
+	 8080
+	 8088
+	 9000
+	 9002
+	 9003
+	 9005
+	 9006
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2014-0128
+	 CVE-2014-3609
+	 CVE-2014-6270
+	 CVE-2014-7141
+	 CVE-2014-7142
+	 CVE-2015-3455
+	 CVE-2015-5400
+	 CVE-2016-10002
+	 CVE-2016-2390
+	 CVE-2016-2569
+	 CVE-2016-2570
+	 CVE-2016-2571
+	 CVE-2016-3947
+	 CVE-2016-3948
+	 CVE-2016-4051
+	 CVE-2016-4052
+	 CVE-2016-4053
+	 CVE-2016-4054
+	 CVE-2016-4553
+	 CVE-2016-4554
+	 CVE-2016-4555
+	 CVE-2016-4556
+	 CVE-2017-3735
+	 CVE-2017-3736
+	 CVE-2017-3737
+	 CVE-2017-3738
+	 CVE-2018-0732
+	 CVE-2018-0734
+	 CVE-2018-0737
+	 CVE-2018-0739
+	 CVE-2018-1000024
+	 CVE-2018-1000027
+	 CVE-2018-19131
+	 CVE-2018-19132
+	 CVE-2018-5407
+	 CVE-2019-12519
+	 CVE-2019-12520
+	 CVE-2019-12521
+	 CVE-2019-12522
+	 CVE-2019-12523
+	 CVE-2019-12524
+	 CVE-2019-12526
+	 CVE-2019-12528
+	 CVE-2019-12529
+	 CVE-2019-13345
+	 CVE-2019-1547
+	 CVE-2019-1551
+	 CVE-2019-1552
+	 CVE-2019-1559
+	 CVE-2019-1563
+	 CVE-2019-18676
+	 CVE-2019-18677
+	 CVE-2019-18678
+	 CVE-2019-18679
+	 CVE-2019-18860
+	 CVE-2020-11945
+	 CVE-2020-14058
+	 CVE-2020-15049
+	 CVE-2020-15810
+	 CVE-2020-15811
+	 CVE-2020-1968
+	 CVE-2020-1971
+	 CVE-2020-24606
+	 CVE-2020-25097
+	 CVE-2020-8449
+	 CVE-2020-8450
+	 CVE-2020-8517
+	 CVE-2021-23840
+	 CVE-2021-23841
+	 CVE-2021-28116
+	 CVE-2021-28651
+	 CVE-2021-28652
+	 CVE-2021-31806
+	 CVE-2021-31807
+	 CVE-2021-31808
+	 CVE-2021-33620
+	 CVE-2021-3712
+	 CVE-2021-4160
+	 CVE-2021-46784
+	 CVE-2022-0778
+	 CVE-2022-1292
+	 CVE-2022-2068
+	 CVE-2022-41318
+	 CVE-2022-4304
+	 CVE-2023-0215
+	 CVE-2023-0286
+
+--------------------------------------------------
+--------------------------------------------------
+Busca asignada: Netbotz Appliance
+Resultados obtidos
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Instituto Latinoamericano de la Comunicacion Educa
+Ubicación do dispositivo: Mexico City, Mexico
+Portos detectados por Shodan:
+	 443
+	 1723
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: University of Utah
+Ubicación do dispositivo: Salt Lake City, United States
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Anyang-si, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: University of Utah
+Ubicación do dispositivo: Salt Lake City, United States
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Hwaseong-si, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Haegok, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: University of Utah
+Ubicación do dispositivo: Salt Lake City, United States
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 200 OK
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Content-type: text/html; charset=utf-8
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Comcast IP Services, L.L.C.
+Ubicación do dispositivo: Rockville, United States
+Portos detectados por Shodan:
+	 1723
+	 5000
+	 8086
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Instituto Politecnico Nacional
+Ubicación do dispositivo: Mexico City, Mexico
+Portos detectados por Shodan:
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Suwon, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Instituto Politecnico Nacional
+Ubicación do dispositivo: Gustavo Adolfo Madero, Mexico
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Level 3 Parent, LLC
+Ubicación do dispositivo: Bryan, United States
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Ukrainian Internet Names Center LTD
+Ubicación do dispositivo: Poltava, Ukraine
+Portos detectados por Shodan:
+	 80
+	 161
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Haegok, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: iVault Corporation
+Ubicación do dispositivo: New York City, United States
+Portos detectados por Shodan:
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: AT&T Corp.
+Ubicación do dispositivo: Seneca, United States
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Daejeon, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: AT&T Corp.
+Ubicación do dispositivo: Seneca, United States
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: SK Broadband Co Ltd
+Ubicación do dispositivo: Ansan-si, Korea, Republic of
+Portos detectados por Shodan:
+	 80
+	 161
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+Resposta do servicio:
+	 HTTP/1.1 401 Unauthorized
+	 Server: thttpd/2.25b 29dec2003
+	 WWW-Authenticate: Basic realm="NetBotz Appliance"
+	 Transfer-Encoding: chunked
+	 Connection: close
+	 Expires: Sat, 01 Jan 2000 12:00:00 GMT
+
+Organización á que pertence: Instituto Politecnico Nacional
+Ubicación do dispositivo: Medina, Mexico
+Portos detectados por Shodan:
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+
+--------------------------------------------------
+--------------------------------------------------
+Busca asignada: vsftpd 2.3.4 -port:21 -ip:189.145.217.20
+Resultados obtidos
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 230 Login successful.
+	 214-The following commands are recognized.
+	  ABOR ACCT ALLO APPE CDUP CWD  DELE EPRT EPSV FEAT HELP LIST MDTM MKD
+	  MODE NLST NOOP OPTS PASS PASV PORT PWD  QUIT REIN REST RETR RMD  RNFR
+	  RNTO SITE SIZE SMNT STAT STOR STOU STRU SYST TYPE USER XCUP XCWD XMKD
+	  XPWD XRMD
+	 214 Help OK.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: OC1-HostForWeb, LLC
+Ubicación do dispositivo: Buffalo, United States
+Portos detectados por Shodan:
+	 21
+	 25
+	 53
+	 80
+	 993
+	 995
+	 3306
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2008-0455
+	 CVE-2011-0419
+	 CVE-2011-3192
+	 CVE-2011-3348
+	 CVE-2011-3639
+	 CVE-2012-0021
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2012-0883
+	 CVE-2012-2687
+	 CVE-2012-3499
+	 CVE-2012-4557
+	 CVE-2012-4558
+	 CVE-2013-1862
+	 CVE-2013-1896
+	 CVE-2013-5704
+	 CVE-2013-6438
+	 CVE-2014-0098
+	 CVE-2014-0118
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2015-0204
+	 CVE-2015-0228
+	 CVE-2015-3183
+	 CVE-2015-4000
+	 CVE-2016-4975
+	 CVE-2016-5387
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2017-3167
+	 CVE-2017-3169
+	 CVE-2017-7679
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Sony Network Communications Inc.
+Ubicación do dispositivo: Tokyo, Japan
+Portos detectados por Shodan:
+	 21
+	 53
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2006-5752
+	 CVE-2007-1741
+	 CVE-2007-1742
+	 CVE-2007-1743
+	 CVE-2007-3304
+	 CVE-2007-3847
+	 CVE-2007-4465
+	 CVE-2007-5000
+	 CVE-2007-6203
+	 CVE-2007-6388
+	 CVE-2007-6420
+	 CVE-2007-6421
+	 CVE-2007-6422
+	 CVE-2007-6423
+	 CVE-2007-6750
+	 CVE-2008-0005
+	 CVE-2008-0455
+	 CVE-2008-0456
+	 CVE-2008-2168
+	 CVE-2008-2364
+	 CVE-2008-2384
+	 CVE-2008-2939
+	 CVE-2009-1195
+	 CVE-2009-1890
+	 CVE-2009-1891
+	 CVE-2009-1956
+	 CVE-2009-2699
+	 CVE-2009-3094
+	 CVE-2009-3095
+	 CVE-2009-3555
+	 CVE-2010-0408
+	 CVE-2010-0425
+	 CVE-2010-0434
+	 CVE-2010-1452
+	 CVE-2011-0419
+	 CVE-2011-3192
+	 CVE-2011-3368
+	 CVE-2011-3607
+	 CVE-2011-3639
+	 CVE-2011-4317
+	 CVE-2011-4415
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2012-0883
+	 CVE-2012-2687
+	 CVE-2012-3499
+	 CVE-2012-4558
+	 CVE-2013-1862
+	 CVE-2013-1896
+	 CVE-2013-5704
+	 CVE-2013-6438
+	 CVE-2014-0098
+	 CVE-2014-0118
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2015-0228
+	 CVE-2015-3183
+	 CVE-2016-4975
+	 CVE-2016-5387
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2017-3167
+	 CVE-2017-3169
+	 CVE-2017-7679
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2019-17567
+	 CVE-2020-11984
+	 CVE-2020-11993
+	 CVE-2020-13938
+	 CVE-2020-13950
+	 CVE-2020-1927
+	 CVE-2020-1934
+	 CVE-2020-35452
+	 CVE-2020-9490
+	 CVE-2021-26690
+	 CVE-2021-26691
+	 CVE-2021-33193
+	 CVE-2021-34798
+	 CVE-2021-36160
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-44224
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-23943
+	 CVE-2022-26377
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31813
+	 CVE-2022-36760
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4-1.0.7)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Viettel Group
+Ubicación do dispositivo: Cần Thơ, Viet Nam
+Portos detectados por Shodan:
+	 21
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 550 Permission denied.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  AUTH SSL
+	  AUTH TLS
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  PBSZ
+	  PROT
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Deutsche Telekom AG
+Ubicación do dispositivo: Berlin, Germany
+Portos detectados por Shodan:
+	 21
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: A1 Bulgaria EAD
+Ubicación do dispositivo: Sofia, Bulgaria
+Portos detectados por Shodan:
+	 21
+	 22
+	 9091
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: NSS S.A.
+Ubicación do dispositivo: Buenos Aires, Argentina
+Portos detectados por Shodan:
+	 21
+	 53
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 vsFTPd 2.3.4+ (ext.1) ready...
+	 530 This FTP server does not allow anonymous logins.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PORT
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Golden Telecom
+Ubicación do dispositivo: Kyiv, Ukraine
+Portos detectados por Shodan:
+	 21
+	 53
+	 80
+	 110
+	 587
+	 993
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2015-0204
+	 CVE-2015-4000
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 230 Password OK, continue
+	 500 Command not found.
+
+Organización á que pertence: Aliyun Computing Co., LTD
+Ubicación do dispositivo: Qingdao, China
+Portos detectados por Shodan:
+	 11
+	 13
+	 15
+	 17
+	 21
+	 22
+	 38
+	 70
+	 79
+	 80
+	 82
+	 84
+	 85
+	 86
+	 87
+	 88
+	 90
+	 92
+	 97
+	 100
+	 104
+	 110
+	 111
+	 113
+	 119
+	 175
+	 179
+	 195
+	 199
+	 389
+	 444
+	 448
+	 450
+	 522
+	 541
+	 548
+	 554
+	 555
+	 631
+	 636
+	 646
+	 666
+	 772
+	 777
+	 789
+	 805
+	 808
+	 843
+	 873
+	 994
+	 995
+	 1000
+	 1012
+	 1022
+	 1023
+	 1028
+	 1029
+	 1099
+	 1111
+	 1119
+	 1177
+	 1250
+	 1311
+	 1337
+	 1355
+	 1433
+	 1500
+	 1521
+	 1554
+	 1599
+	 1604
+	 1723
+	 1741
+	 1820
+	 1830
+	 1833
+	 1901
+	 1911
+	 1925
+	 1926
+	 1935
+	 1947
+	 1951
+	 1981
+	 1990
+	 2000
+	 2001
+	 2002
+	 2008
+	 2012
+	 2049
+	 2050
+	 2051
+	 2052
+	 2053
+	 2054
+	 2056
+	 2058
+	 2059
+	 2060
+	 2061
+	 2062
+	 2063
+	 2067
+	 2069
+	 2070
+	 2079
+	 2081
+	 2083
+	 2086
+	 2087
+	 2096
+	 2111
+	 2154
+	 2181
+	 2200
+	 2201
+	 2220
+	 2221
+	 2222
+	 2225
+	 2232
+	 2250
+	 2259
+	 2320
+	 2332
+	 2345
+	 2351
+	 2375
+	 2376
+	 2404
+	 2455
+	 2480
+	 2506
+	 2525
+	 2548
+	 2549
+	 2553
+	 2554
+	 2557
+	 2563
+	 2568
+	 2569
+	 2570
+	 2598
+	 2601
+	 2628
+	 2650
+	 2701
+	 2709
+	 2761
+	 2762
+	 2985
+	 3000
+	 3001
+	 3002
+	 3051
+	 3052
+	 3053
+	 3054
+	 3059
+	 3062
+	 3063
+	 3066
+	 3067
+	 3068
+	 3069
+	 3073
+	 3077
+	 3080
+	 3085
+	 3086
+	 3089
+	 3091
+	 3095
+	 3100
+	 3101
+	 3104
+	 3105
+	 3106
+	 3110
+	 3111
+	 3112
+	 3113
+	 3117
+	 3128
+	 3129
+	 3200
+	 3221
+	 3268
+	 3307
+	 3310
+	 3311
+	 3333
+	 3352
+	 3388
+	 3400
+	 3407
+	 3408
+	 3412
+	 3460
+	 3479
+	 3498
+	 3523
+	 3541
+	 3542
+	 3550
+	 3551
+	 3552
+	 3554
+	 3555
+	 3556
+	 3559
+	 3560
+	 3562
+	 3566
+	 3567
+	 3568
+	 3569
+	 3570
+	 3689
+	 3690
+	 3749
+	 3780
+	 3790
+	 3791
+	 3794
+	 3838
+	 3951
+	 3952
+	 3953
+	 4000
+	 4002
+	 4022
+	 4040
+	 4043
+	 4063
+	 4064
+	 4117
+	 4190
+	 4200
+	 4242
+	 4282
+	 4321
+	 4369
+	 4430
+	 4433
+	 4500
+	 4506
+	 4523
+	 4524
+	 4545
+	 4567
+	 4643
+	 4664
+	 4700
+	 4734
+	 4808
+	 4840
+	 4848
+	 4999
+	 5000
+	 5001
+	 5002
+	 5003
+	 5004
+	 5005
+	 5006
+	 5007
+	 5009
+	 5010
+	 5080
+	 5122
+	 5190
+	 5201
+	 5209
+	 5222
+	 5269
+	 5280
+	 5357
+	 5431
+	 5432
+	 5454
+	 5500
+	 5560
+	 5567
+	 5568
+	 5569
+	 5594
+	 5595
+	 5597
+	 5600
+	 5601
+	 5603
+	 5605
+	 5606
+	 5608
+	 5609
+	 5672
+	 5673
+	 5801
+	 5822
+	 5858
+	 5900
+	 5908
+	 5910
+	 5938
+	 5984
+	 5985
+	 5986
+	 6000
+	 6001
+	 6002
+	 6003
+	 6004
+	 6005
+	 6006
+	 6007
+	 6009
+	 6010
+	 6036
+	 6080
+	 6264
+	 6308
+	 6363
+	 6443
+	 6503
+	 6510
+	 6512
+	 6580
+	 6581
+	 6588
+	 6600
+	 6602
+	 6603
+	 6622
+	 6633
+	 6650
+	 6653
+	 6666
+	 6667
+	 6668
+	 6748
+	 6789
+	 6887
+	 6955
+	 7004
+	 7010
+	 7071
+	 7080
+	 7081
+	 7090
+	 7171
+	 7218
+	 7401
+	 7415
+	 7443
+	 7445
+	 7474
+	 7493
+	 7500
+	 7548
+	 7634
+	 7654
+	 7776
+	 7777
+	 7778
+	 7779
+	 7788
+	 7979
+	 7989
+	 8001
+	 8002
+	 8003
+	 8004
+	 8005
+	 8007
+	 8008
+	 8009
+	 8010
+	 8012
+	 8019
+	 8020
+	 8022
+	 8023
+	 8025
+	 8026
+	 8027
+	 8033
+	 8034
+	 8035
+	 8038
+	 8040
+	 8041
+	 8042
+	 8043
+	 8045
+	 8046
+	 8048
+	 8049
+	 8051
+	 8052
+	 8054
+	 8057
+	 8060
+	 8064
+	 8066
+	 8069
+	 8071
+	 8080
+	 8081
+	 8083
+	 8085
+	 8086
+	 8087
+	 8090
+	 8091
+	 8092
+	 8094
+	 8095
+	 8100
+	 8102
+	 8104
+	 8105
+	 8106
+	 8107
+	 8109
+	 8111
+	 8123
+	 8126
+	 8139
+	 8140
+	 8143
+	 8159
+	 8180
+	 8181
+	 8190
+	 8200
+	 8238
+	 8239
+	 8243
+	 8249
+	 8333
+	 8334
+	 8403
+	 8404
+	 8405
+	 8409
+	 8410
+	 8411
+	 8414
+	 8415
+	 8416
+	 8417
+	 8424
+	 8425
+	 8426
+	 8427
+	 8428
+	 8430
+	 8431
+	 8432
+	 8443
+	 8444
+	 8448
+	 8545
+	 8553
+	 8554
+	 8575
+	 8585
+	 8623
+	 8637
+	 8649
+	 8663
+	 8666
+	 8688
+	 8728
+	 8765
+	 8766
+	 8767
+	 8787
+	 8788
+	 8790
+	 8791
+	 8800
+	 8805
+	 8806
+	 8812
+	 8815
+	 8817
+	 8818
+	 8820
+	 8824
+	 8825
+	 8827
+	 8829
+	 8830
+	 8831
+	 8832
+	 8833
+	 8834
+	 8836
+	 8837
+	 8842
+	 8843
+	 8844
+	 8845
+	 8847
+	 8848
+	 8849
+	 8850
+	 8852
+	 8854
+	 8856
+	 8857
+	 8858
+	 8861
+	 8862
+	 8863
+	 8864
+	 8865
+	 8866
+	 8868
+	 8876
+	 8881
+	 8887
+	 8888
+	 8889
+	 8890
+	 8899
+	 8988
+	 8989
+	 8993
+	 9000
+	 9001
+	 9002
+	 9005
+	 9006
+	 9007
+	 9011
+	 9016
+	 9018
+	 9019
+	 9020
+	 9022
+	 9023
+	 9024
+	 9026
+	 9028
+	 9030
+	 9031
+	 9032
+	 9034
+	 9035
+	 9038
+	 9041
+	 9044
+	 9045
+	 9046
+	 9047
+	 9048
+	 9050
+	 9051
+	 9070
+	 9080
+	 9084
+	 9088
+	 9089
+	 9090
+	 9091
+	 9092
+	 9093
+	 9098
+	 9101
+	 9103
+	 9104
+	 9106
+	 9110
+	 9111
+	 9119
+	 9151
+	 9189
+	 9199
+	 9200
+	 9202
+	 9206
+	 9207
+	 9208
+	 9210
+	 9211
+	 9213
+	 9217
+	 9219
+	 9220
+	 9221
+	 9295
+	 9299
+	 9302
+	 9303
+	 9304
+	 9306
+	 9307
+	 9308
+	 9309
+	 9310
+	 9418
+	 9433
+	 9444
+	 9445
+	 9500
+	 9530
+	 9550
+	 9600
+	 9690
+	 9704
+	 9743
+	 9761
+	 9800
+	 9861
+	 9869
+	 9943
+	 9944
+	 9950
+	 9955
+	 9966
+	 9981
+	 9990
+	 9991
+	 9992
+	 9998
+	 9999
+	 10000
+	 10001
+	 10134
+	 10250
+	 10443
+	 11000
+	 11112
+	 11210
+	 11211
+	 11300
+	 11371
+	 12000
+	 13579
+	 14147
+	 14265
+	 16010
+	 16992
+	 16993
+	 18081
+	 19000
+	 20000
+	 20256
+	 20547
+	 21025
+	 21379
+	 22222
+	 23023
+	 23424
+	 25001
+	 25565
+	 27015
+	 27017
+	 28015
+	 28017
+	 31337
+	 32400
+	 33060
+	 35000
+	 37215
+	 41800
+	 44158
+	 44818
+	 49152
+	 49153
+	 50000
+	 50070
+	 50100
+	 51106
+	 51235
+	 52869
+	 54138
+	 55000
+	 55442
+	 55443
+	 55554
+	 61613
+	 61616
+	 62078
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2005-2946
+	 CVE-2005-2969
+	 CVE-2006-20001
+	 CVE-2006-2937
+	 CVE-2006-2940
+	 CVE-2006-3738
+	 CVE-2006-4339
+	 CVE-2006-4343
+	 CVE-2006-7250
+	 CVE-2007-3108
+	 CVE-2007-4995
+	 CVE-2007-5135
+	 CVE-2007-6750
+	 CVE-2008-0166
+	 CVE-2008-0455
+	 CVE-2008-0456
+	 CVE-2008-2939
+	 CVE-2008-5077
+	 CVE-2008-7270
+	 CVE-2009-0590
+	 CVE-2009-0591
+	 CVE-2009-0789
+	 CVE-2009-1195
+	 CVE-2009-1377
+	 CVE-2009-1378
+	 CVE-2009-1386
+	 CVE-2009-1387
+	 CVE-2009-1890
+	 CVE-2009-1891
+	 CVE-2009-2409
+	 CVE-2009-2699
+	 CVE-2009-3094
+	 CVE-2009-3095
+	 CVE-2009-3245
+	 CVE-2009-3555
+	 CVE-2009-4355
+	 CVE-2010-0408
+	 CVE-2010-0425
+	 CVE-2010-0433
+	 CVE-2010-0434
+	 CVE-2010-0740
+	 CVE-2010-0742
+	 CVE-2010-0928
+	 CVE-2010-1452
+	 CVE-2010-2068
+	 CVE-2010-2791
+	 CVE-2010-3864
+	 CVE-2010-4180
+	 CVE-2010-4252
+	 CVE-2010-5298
+	 CVE-2011-0014
+	 CVE-2011-0419
+	 CVE-2011-1473
+	 CVE-2011-1945
+	 CVE-2011-3192
+	 CVE-2011-3210
+	 CVE-2011-3368
+	 CVE-2011-3607
+	 CVE-2011-3639
+	 CVE-2011-4108
+	 CVE-2011-4109
+	 CVE-2011-4317
+	 CVE-2011-4415
+	 CVE-2011-4576
+	 CVE-2011-4577
+	 CVE-2011-4619
+	 CVE-2012-0027
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2012-0883
+	 CVE-2012-0884
+	 CVE-2012-1165
+	 CVE-2012-2110
+	 CVE-2012-2333
+	 CVE-2012-2687
+	 CVE-2012-3499
+	 CVE-2012-4558
+	 CVE-2013-0166
+	 CVE-2013-0169
+	 CVE-2013-1862
+	 CVE-2013-1896
+	 CVE-2013-5704
+	 CVE-2013-6438
+	 CVE-2013-6449
+	 CVE-2014-0076
+	 CVE-2014-0098
+	 CVE-2014-0118
+	 CVE-2014-0195
+	 CVE-2014-0198
+	 CVE-2014-0221
+	 CVE-2014-0224
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2014-3470
+	 CVE-2014-3505
+	 CVE-2014-3506
+	 CVE-2014-3507
+	 CVE-2014-3508
+	 CVE-2014-3509
+	 CVE-2014-3510
+	 CVE-2014-3511
+	 CVE-2014-3512
+	 CVE-2014-3513
+	 CVE-2014-3566
+	 CVE-2014-3567
+	 CVE-2014-3568
+	 CVE-2014-3570
+	 CVE-2014-3571
+	 CVE-2014-3572
+	 CVE-2014-5139
+	 CVE-2014-8176
+	 CVE-2014-8275
+	 CVE-2015-0204
+	 CVE-2015-0205
+	 CVE-2015-0206
+	 CVE-2015-0209
+	 CVE-2015-0228
+	 CVE-2015-0286
+	 CVE-2015-0287
+	 CVE-2015-0288
+	 CVE-2015-0289
+	 CVE-2015-0292
+	 CVE-2015-0293
+	 CVE-2015-1788
+	 CVE-2015-1789
+	 CVE-2015-1790
+	 CVE-2015-1791
+	 CVE-2015-1792
+	 CVE-2015-3183
+	 CVE-2015-3194
+	 CVE-2015-3195
+	 CVE-2015-3196
+	 CVE-2015-3197
+	 CVE-2015-4000
+	 CVE-2015-9253
+	 CVE-2016-0702
+	 CVE-2016-0703
+	 CVE-2016-0704
+	 CVE-2016-0705
+	 CVE-2016-0797
+	 CVE-2016-0798
+	 CVE-2016-0799
+	 CVE-2016-0800
+	 CVE-2016-2105
+	 CVE-2016-2106
+	 CVE-2016-2107
+	 CVE-2016-2108
+	 CVE-2016-2109
+	 CVE-2016-2176
+	 CVE-2016-2177
+	 CVE-2016-2178
+	 CVE-2016-2179
+	 CVE-2016-2180
+	 CVE-2016-2181
+	 CVE-2016-2182
+	 CVE-2016-2183
+	 CVE-2016-2842
+	 CVE-2016-4975
+	 CVE-2016-5387
+	 CVE-2016-6302
+	 CVE-2016-6303
+	 CVE-2016-6304
+	 CVE-2016-6306
+	 CVE-2016-7056
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2017-3167
+	 CVE-2017-3735
+	 CVE-2017-7272
+	 CVE-2017-7679
+	 CVE-2017-7963
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2018-19395
+	 CVE-2018-19396
+	 CVE-2019-9637
+	 CVE-2019-9638
+	 CVE-2019-9639
+	 CVE-2019-9641
+	 CVE-2020-1938
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-4044
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31628
+	 CVE-2022-31629
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4-1.0.7)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  AUTH SSL
+	  AUTH TLS
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  PBSZ
+	  PROT
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Korea Telecom
+Ubicación do dispositivo: Daejeon, Korea, Republic of
+Portos detectados por Shodan:
+	 21
+	 80
+	 111
+	 443
+	 548
+	 8080
+	 8817
+	 8991
+	 11211
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2010-5298
+	 CVE-2013-4352
+	 CVE-2013-4353
+	 CVE-2013-5704
+	 CVE-2013-6438
+	 CVE-2013-6449
+	 CVE-2013-6450
+	 CVE-2014-0098
+	 CVE-2014-0117
+	 CVE-2014-0118
+	 CVE-2014-0160
+	 CVE-2014-0195
+	 CVE-2014-0198
+	 CVE-2014-0221
+	 CVE-2014-0224
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2014-3470
+	 CVE-2014-3505
+	 CVE-2014-3506
+	 CVE-2014-3507
+	 CVE-2014-3508
+	 CVE-2014-3509
+	 CVE-2014-3510
+	 CVE-2014-3511
+	 CVE-2014-3512
+	 CVE-2014-3513
+	 CVE-2014-3523
+	 CVE-2014-3566
+	 CVE-2014-3567
+	 CVE-2014-3568
+	 CVE-2014-3570
+	 CVE-2014-3571
+	 CVE-2014-3572
+	 CVE-2014-3581
+	 CVE-2014-5139
+	 CVE-2014-8109
+	 CVE-2014-8176
+	 CVE-2014-8275
+	 CVE-2015-0204
+	 CVE-2015-0205
+	 CVE-2015-0206
+	 CVE-2015-0209
+	 CVE-2015-0228
+	 CVE-2015-0286
+	 CVE-2015-0287
+	 CVE-2015-0288
+	 CVE-2015-0289
+	 CVE-2015-0292
+	 CVE-2015-0293
+	 CVE-2015-1788
+	 CVE-2015-1789
+	 CVE-2015-1790
+	 CVE-2015-1791
+	 CVE-2015-1792
+	 CVE-2015-3183
+	 CVE-2015-3184
+	 CVE-2015-3185
+	 CVE-2015-3194
+	 CVE-2015-3195
+	 CVE-2015-3196
+	 CVE-2015-3197
+	 CVE-2015-4000
+	 CVE-2016-0702
+	 CVE-2016-0703
+	 CVE-2016-0704
+	 CVE-2016-0705
+	 CVE-2016-0736
+	 CVE-2016-0797
+	 CVE-2016-0798
+	 CVE-2016-0799
+	 CVE-2016-0800
+	 CVE-2016-2105
+	 CVE-2016-2106
+	 CVE-2016-2107
+	 CVE-2016-2108
+	 CVE-2016-2109
+	 CVE-2016-2161
+	 CVE-2016-2176
+	 CVE-2016-2177
+	 CVE-2016-2178
+	 CVE-2016-2179
+	 CVE-2016-2180
+	 CVE-2016-2181
+	 CVE-2016-2182
+	 CVE-2016-2183
+	 CVE-2016-2842
+	 CVE-2016-4975
+	 CVE-2016-5387
+	 CVE-2016-6302
+	 CVE-2016-6303
+	 CVE-2016-6304
+	 CVE-2016-6306
+	 CVE-2016-7056
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2017-15710
+	 CVE-2017-15715
+	 CVE-2017-3167
+	 CVE-2017-3735
+	 CVE-2017-7679
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1283
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2018-1312
+	 CVE-2018-17199
+	 CVE-2019-0217
+	 CVE-2019-0220
+	 CVE-2019-10092
+	 CVE-2019-10098
+	 CVE-2019-17567
+	 CVE-2020-11985
+	 CVE-2020-13938
+	 CVE-2020-1927
+	 CVE-2020-1934
+	 CVE-2020-35452
+	 CVE-2021-26690
+	 CVE-2021-26691
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-4044
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-23943
+	 CVE-2022-26377
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31813
+	 CVE-2022-36760
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 vsFTPd 2.3.4+ (ext.1) ready...
+	 530 This FTP server does not allow anonymous logins.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PORT
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Golden Telecom
+Ubicación do dispositivo: Kyiv, Ukraine
+Portos detectados por Shodan:
+	 21
+	 22
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2016-0777
+	 CVE-2016-0778
+	 CVE-2016-10009
+	 CVE-2016-10010
+	 CVE-2016-10011
+	 CVE-2016-10012
+	 CVE-2016-10708
+	 CVE-2016-1907
+	 CVE-2016-1908
+	 CVE-2016-20012
+	 CVE-2016-8858
+	 CVE-2017-15906
+	 CVE-2018-15473
+	 CVE-2018-15919
+	 CVE-2018-20685
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2021-36368
+	 CVE-2021-41617
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 230 Password OK, continue
+	 500 Command not found.
+
+Organización á que pertence: Alibaba.com Singapore E-Commerce Private Limited
+Ubicación do dispositivo: Seoul, Korea, Republic of
+Portos detectados por Shodan:
+	 11
+	 13
+	 15
+	 17
+	 19
+	 21
+	 23
+	 25
+	 38
+	 43
+	 49
+	 51
+	 70
+	 83
+	 84
+	 87
+	 89
+	 90
+	 91
+	 96
+	 97
+	 98
+	 100
+	 102
+	 106
+	 110
+	 143
+	 175
+	 180
+	 211
+	 221
+	 222
+	 340
+	 443
+	 444
+	 445
+	 449
+	 450
+	 515
+	 541
+	 593
+	 666
+	 771
+	 772
+	 800
+	 801
+	 805
+	 808
+	 873
+	 902
+	 993
+	 994
+	 999
+	 1023
+	 1024
+	 1027
+	 1028
+	 1029
+	 1099
+	 1153
+	 1177
+	 1200
+	 1234
+	 1250
+	 1311
+	 1337
+	 1355
+	 1366
+	 1471
+	 1494
+	 1521
+	 1599
+	 1604
+	 1660
+	 1723
+	 1741
+	 1820
+	 1883
+	 1911
+	 1925
+	 1926
+	 1935
+	 1947
+	 1962
+	 1981
+	 2000
+	 2001
+	 2002
+	 2008
+	 2012
+	 2049
+	 2050
+	 2053
+	 2059
+	 2061
+	 2062
+	 2069
+	 2081
+	 2082
+	 2083
+	 2095
+	 2121
+	 2122
+	 2150
+	 2154
+	 2211
+	 2220
+	 2221
+	 2222
+	 2225
+	 2233
+	 2259
+	 2323
+	 2345
+	 2351
+	 2352
+	 2375
+	 2376
+	 2455
+	 2480
+	 2550
+	 2551
+	 2552
+	 2553
+	 2555
+	 2557
+	 2561
+	 2570
+	 2628
+	 2701
+	 2709
+	 2762
+	 2806
+	 2985
+	 3000
+	 3001
+	 3048
+	 3052
+	 3054
+	 3056
+	 3057
+	 3058
+	 3060
+	 3067
+	 3068
+	 3072
+	 3073
+	 3076
+	 3077
+	 3078
+	 3084
+	 3085
+	 3086
+	 3087
+	 3088
+	 3089
+	 3090
+	 3096
+	 3097
+	 3099
+	 3100
+	 3102
+	 3103
+	 3108
+	 3111
+	 3112
+	 3115
+	 3116
+	 3118
+	 3128
+	 3129
+	 3268
+	 3269
+	 3299
+	 3301
+	 3306
+	 3388
+	 3406
+	 3407
+	 3410
+	 3412
+	 3460
+	 3498
+	 3522
+	 3524
+	 3541
+	 3542
+	 3548
+	 3549
+	 3550
+	 3551
+	 3556
+	 3558
+	 3561
+	 3562
+	 3566
+	 3569
+	 3780
+	 3790
+	 3793
+	 3910
+	 3922
+	 3951
+	 3953
+	 3954
+	 4022
+	 4040
+	 4063
+	 4117
+	 4190
+	 4242
+	 4282
+	 4433
+	 4443
+	 4482
+	 4500
+	 4523
+	 4545
+	 4567
+	 4646
+	 4664
+	 4734
+	 4747
+	 4782
+	 4786
+	 4808
+	 4840
+	 4899
+	 4949
+	 5001
+	 5002
+	 5005
+	 5006
+	 5007
+	 5009
+	 5010
+	 5025
+	 5050
+	 5080
+	 5090
+	 5122
+	 5190
+	 5201
+	 5222
+	 5269
+	 5400
+	 5431
+	 5432
+	 5446
+	 5454
+	 5500
+	 5542
+	 5591
+	 5595
+	 5597
+	 5598
+	 5601
+	 5603
+	 5604
+	 5605
+	 5607
+	 5608
+	 5673
+	 5800
+	 5900
+	 5901
+	 5908
+	 5984
+	 5985
+	 6000
+	 6002
+	 6006
+	 6008
+	 6009
+	 6010
+	 6080
+	 6352
+	 6363
+	 6379
+	 6503
+	 6510
+	 6543
+	 6550
+	 6561
+	 6565
+	 6581
+	 6588
+	 6633
+	 6650
+	 6667
+	 6668
+	 6697
+	 6748
+	 7000
+	 7002
+	 7081
+	 7170
+	 7218
+	 7401
+	 7415
+	 7433
+	 7443
+	 7500
+	 7510
+	 7535
+	 7548
+	 7634
+	 7657
+	 7700
+	 7779
+	 7788
+	 7989
+	 7998
+	 8001
+	 8004
+	 8006
+	 8008
+	 8009
+	 8010
+	 8012
+	 8015
+	 8017
+	 8019
+	 8020
+	 8022
+	 8026
+	 8029
+	 8030
+	 8031
+	 8035
+	 8036
+	 8037
+	 8039
+	 8044
+	 8045
+	 8051
+	 8054
+	 8058
+	 8060
+	 8064
+	 8069
+	 8072
+	 8080
+	 8081
+	 8083
+	 8086
+	 8087
+	 8093
+	 8103
+	 8106
+	 8108
+	 8110
+	 8112
+	 8118
+	 8123
+	 8126
+	 8139
+	 8180
+	 8182
+	 8200
+	 8222
+	 8237
+	 8238
+	 8249
+	 8251
+	 8252
+	 8291
+	 8333
+	 8334
+	 8405
+	 8407
+	 8408
+	 8409
+	 8417
+	 8418
+	 8422
+	 8423
+	 8426
+	 8427
+	 8430
+	 8432
+	 8433
+	 8443
+	 8447
+	 8545
+	 8553
+	 8575
+	 8586
+	 8602
+	 8622
+	 8623
+	 8649
+	 8686
+	 8688
+	 8728
+	 8765
+	 8779
+	 8784
+	 8787
+	 8789
+	 8800
+	 8802
+	 8805
+	 8806
+	 8808
+	 8809
+	 8810
+	 8812
+	 8813
+	 8815
+	 8817
+	 8820
+	 8822
+	 8824
+	 8828
+	 8831
+	 8834
+	 8835
+	 8837
+	 8840
+	 8841
+	 8843
+	 8844
+	 8845
+	 8846
+	 8847
+	 8852
+	 8853
+	 8865
+	 8866
+	 8868
+	 8873
+	 8878
+	 8880
+	 8887
+	 8888
+	 8889
+	 8890
+	 8990
+	 9000
+	 9002
+	 9008
+	 9009
+	 9013
+	 9015
+	 9017
+	 9025
+	 9026
+	 9030
+	 9035
+	 9041
+	 9042
+	 9043
+	 9045
+	 9047
+	 9048
+	 9049
+	 9050
+	 9051
+	 9080
+	 9082
+	 9084
+	 9089
+	 9090
+	 9091
+	 9096
+	 9102
+	 9103
+	 9104
+	 9107
+	 9108
+	 9109
+	 9110
+	 9119
+	 9151
+	 9160
+	 9200
+	 9204
+	 9206
+	 9213
+	 9214
+	 9217
+	 9219
+	 9220
+	 9222
+	 9251
+	 9300
+	 9305
+	 9306
+	 9307
+	 9308
+	 9309
+	 9389
+	 9418
+	 9445
+	 9500
+	 9530
+	 9550
+	 9600
+	 9682
+	 9704
+	 9743
+	 9761
+	 9800
+	 9943
+	 9944
+	 9991
+	 9993
+	 9994
+	 9998
+	 10000
+	 10134
+	 10243
+	 11112
+	 11210
+	 11300
+	 11371
+	 14265
+	 16992
+	 17000
+	 18245
+	 19000
+	 20547
+	 21025
+	 23424
+	 25565
+	 27017
+	 28015
+	 31337
+	 32400
+	 32764
+	 33060
+	 35000
+	 37215
+	 37777
+	 44158
+	 44818
+	 49153
+	 50000
+	 50050
+	 50070
+	 50100
+	 51106
+	 51235
+	 54138
+	 55442
+	 55553
+	 55554
+	 60001
+	 61616
+	 62078
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2001-1556
+	 CVE-2003-0016
+	 CVE-2003-0017
+	 CVE-2003-0020
+	 CVE-2003-0083
+	 CVE-2003-0132
+	 CVE-2003-0134
+	 CVE-2003-0189
+	 CVE-2003-0192
+	 CVE-2003-0245
+	 CVE-2003-0253
+	 CVE-2003-0254
+	 CVE-2003-0542
+	 CVE-2003-0789
+	 CVE-2003-1307
+	 CVE-2004-0113
+	 CVE-2004-0174
+	 CVE-2004-0263
+	 CVE-2004-0488
+	 CVE-2004-0747
+	 CVE-2004-0748
+	 CVE-2004-0786
+	 CVE-2004-0809
+	 CVE-2004-0885
+	 CVE-2004-0942
+	 CVE-2004-1834
+	 CVE-2004-2343
+	 CVE-2005-1268
+	 CVE-2005-2088
+	 CVE-2005-2700
+	 CVE-2005-2728
+	 CVE-2005-2946
+	 CVE-2005-2969
+	 CVE-2005-2970
+	 CVE-2005-3352
+	 CVE-2005-3357
+	 CVE-2006-20001
+	 CVE-2006-2937
+	 CVE-2006-2940
+	 CVE-2006-3738
+	 CVE-2006-4154
+	 CVE-2006-4339
+	 CVE-2006-4343
+	 CVE-2006-5752
+	 CVE-2006-7250
+	 CVE-2007-3108
+	 CVE-2007-3304
+	 CVE-2007-3847
+	 CVE-2007-4465
+	 CVE-2007-4995
+	 CVE-2007-5000
+	 CVE-2007-5135
+	 CVE-2007-6388
+	 CVE-2007-6750
+	 CVE-2008-0005
+	 CVE-2008-0166
+	 CVE-2008-2168
+	 CVE-2008-2364
+	 CVE-2008-2384
+	 CVE-2008-2939
+	 CVE-2008-5077
+	 CVE-2008-7270
+	 CVE-2009-0590
+	 CVE-2009-0591
+	 CVE-2009-0789
+	 CVE-2009-1195
+	 CVE-2009-1377
+	 CVE-2009-1378
+	 CVE-2009-1386
+	 CVE-2009-1387
+	 CVE-2009-1891
+	 CVE-2009-2409
+	 CVE-2009-3094
+	 CVE-2009-3095
+	 CVE-2009-3245
+	 CVE-2009-3555
+	 CVE-2009-4355
+	 CVE-2010-0425
+	 CVE-2010-0433
+	 CVE-2010-0434
+	 CVE-2010-0740
+	 CVE-2010-0742
+	 CVE-2010-0928
+	 CVE-2010-1899
+	 CVE-2010-2730
+	 CVE-2010-3864
+	 CVE-2010-3972
+	 CVE-2010-4180
+	 CVE-2010-4252
+	 CVE-2010-5298
+	 CVE-2011-0014
+	 CVE-2011-0419
+	 CVE-2011-1473
+	 CVE-2011-1945
+	 CVE-2011-3192
+	 CVE-2011-3210
+	 CVE-2011-3368
+	 CVE-2011-3607
+	 CVE-2011-3639
+	 CVE-2011-4108
+	 CVE-2011-4109
+	 CVE-2011-4317
+	 CVE-2011-4415
+	 CVE-2011-4576
+	 CVE-2011-4577
+	 CVE-2011-4619
+	 CVE-2012-0027
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2012-0884
+	 CVE-2012-1165
+	 CVE-2012-2110
+	 CVE-2012-2333
+	 CVE-2013-0166
+	 CVE-2013-0169
+	 CVE-2013-1862
+	 CVE-2013-6449
+	 CVE-2014-0076
+	 CVE-2014-0195
+	 CVE-2014-0198
+	 CVE-2014-0221
+	 CVE-2014-0224
+	 CVE-2014-0231
+	 CVE-2014-3470
+	 CVE-2014-3505
+	 CVE-2014-3506
+	 CVE-2014-3507
+	 CVE-2014-3508
+	 CVE-2014-3509
+	 CVE-2014-3510
+	 CVE-2014-3511
+	 CVE-2014-3512
+	 CVE-2014-3513
+	 CVE-2014-3566
+	 CVE-2014-3567
+	 CVE-2014-3568
+	 CVE-2014-3570
+	 CVE-2014-3571
+	 CVE-2014-3572
+	 CVE-2014-5139
+	 CVE-2014-8176
+	 CVE-2014-8275
+	 CVE-2015-0204
+	 CVE-2015-0205
+	 CVE-2015-0206
+	 CVE-2015-0209
+	 CVE-2015-0228
+	 CVE-2015-0286
+	 CVE-2015-0287
+	 CVE-2015-0288
+	 CVE-2015-0289
+	 CVE-2015-0292
+	 CVE-2015-0293
+	 CVE-2015-1788
+	 CVE-2015-1789
+	 CVE-2015-1790
+	 CVE-2015-1791
+	 CVE-2015-1792
+	 CVE-2015-3183
+	 CVE-2015-3194
+	 CVE-2015-3195
+	 CVE-2015-3196
+	 CVE-2015-3197
+	 CVE-2015-4000
+	 CVE-2015-9253
+	 CVE-2016-0702
+	 CVE-2016-0703
+	 CVE-2016-0704
+	 CVE-2016-0705
+	 CVE-2016-0797
+	 CVE-2016-0798
+	 CVE-2016-0799
+	 CVE-2016-0800
+	 CVE-2016-2105
+	 CVE-2016-2106
+	 CVE-2016-2107
+	 CVE-2016-2108
+	 CVE-2016-2109
+	 CVE-2016-2176
+	 CVE-2016-2177
+	 CVE-2016-2178
+	 CVE-2016-2179
+	 CVE-2016-2180
+	 CVE-2016-2181
+	 CVE-2016-2182
+	 CVE-2016-2183
+	 CVE-2016-2842
+	 CVE-2016-6302
+	 CVE-2016-6303
+	 CVE-2016-6304
+	 CVE-2016-6306
+	 CVE-2016-7056
+	 CVE-2016-8612
+	 CVE-2017-3735
+	 CVE-2017-7272
+	 CVE-2017-7963
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2018-19395
+	 CVE-2018-19396
+	 CVE-2019-9637
+	 CVE-2019-9638
+	 CVE-2019-9639
+	 CVE-2019-9641
+	 CVE-2020-1938
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-4044
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31628
+	 CVE-2022-31629
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 vsFTPd 2.3.4+ (ext.1) ready...
+	 530 This FTP server does not allow anonymous logins.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PORT
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: CHUNGWHA TELECOM TWGATE
+Ubicación do dispositivo: Los Angeles, United States
+Portos detectados por Shodan:
+	 21
+	 22
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2010-4755
+	 CVE-2010-5107
+	 CVE-2011-4327
+	 CVE-2011-5000
+	 CVE-2014-1692
+	 CVE-2014-2532
+	 CVE-2014-2653
+	 CVE-2015-5352
+	 CVE-2015-5600
+	 CVE-2015-6563
+	 CVE-2015-6564
+	 CVE-2016-0777
+	 CVE-2016-0778
+	 CVE-2016-10009
+	 CVE-2016-10010
+	 CVE-2016-10011
+	 CVE-2016-10012
+	 CVE-2016-10708
+	 CVE-2016-1908
+	 CVE-2016-20012
+	 CVE-2017-15906
+	 CVE-2018-15473
+	 CVE-2018-20685
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2021-36368
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Hong Kong Broadband Network Ltd
+Ubicación do dispositivo: Hong Kong, Hong Kong
+Portos detectados por Shodan:
+	 21
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2008-0455
+	 CVE-2011-0419
+	 CVE-2011-3192
+	 CVE-2011-3348
+	 CVE-2011-3639
+	 CVE-2012-0021
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2012-0883
+	 CVE-2012-2687
+	 CVE-2012-3499
+	 CVE-2012-4557
+	 CVE-2012-4558
+	 CVE-2013-1862
+	 CVE-2013-1896
+	 CVE-2013-5704
+	 CVE-2013-6438
+	 CVE-2014-0098
+	 CVE-2014-0118
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2015-0228
+	 CVE-2015-3183
+	 CVE-2016-4975
+	 CVE-2016-5387
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2017-3167
+	 CVE-2017-3169
+	 CVE-2017-7679
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Network Solutions, LLC
+Ubicación do dispositivo: Mountain Top, United States
+Portos detectados por Shodan:
+	 21
+	 22
+	 80
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2010-4755
+	 CVE-2010-5107
+	 CVE-2011-4327
+	 CVE-2011-5000
+	 CVE-2014-1692
+	 CVE-2014-2532
+	 CVE-2014-2653
+	 CVE-2015-5352
+	 CVE-2015-5600
+	 CVE-2015-6563
+	 CVE-2015-6564
+	 CVE-2016-0777
+	 CVE-2016-0778
+	 CVE-2016-10009
+	 CVE-2016-10010
+	 CVE-2016-10011
+	 CVE-2016-10012
+	 CVE-2016-10708
+	 CVE-2016-1908
+	 CVE-2016-20012
+	 CVE-2017-15906
+	 CVE-2018-15473
+	 CVE-2018-20685
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2020-14145
+	 CVE-2020-15778
+	 CVE-2021-36368
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: 100387395_MISAMIS UNIVERSITY
+Ubicación do dispositivo: Paranaque City, Philippines
+Portos detectados por Shodan:
+	 21
+	 22
+	 80
+	 443
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2008-0455
+	 CVE-2010-4478
+	 CVE-2010-4657
+	 CVE-2010-4755
+	 CVE-2010-5107
+	 CVE-2011-0539
+	 CVE-2011-4327
+	 CVE-2011-4718
+	 CVE-2011-5000
+	 CVE-2012-0814
+	 CVE-2012-0883
+	 CVE-2012-1171
+	 CVE-2012-2143
+	 CVE-2012-2376
+	 CVE-2012-2386
+	 CVE-2012-2687
+	 CVE-2012-2688
+	 CVE-2012-3365
+	 CVE-2012-3450
+	 CVE-2012-3499
+	 CVE-2012-4558
+	 CVE-2012-6113
+	 CVE-2013-1635
+	 CVE-2013-1643
+	 CVE-2013-1824
+	 CVE-2013-1862
+	 CVE-2013-1896
+	 CVE-2013-2110
+	 CVE-2013-4113
+	 CVE-2013-4248
+	 CVE-2013-4635
+	 CVE-2013-5704
+	 CVE-2013-6420
+	 CVE-2013-6438
+	 CVE-2013-6501
+	 CVE-2013-6712
+	 CVE-2013-7327
+	 CVE-2014-0098
+	 CVE-2014-0118
+	 CVE-2014-0185
+	 CVE-2014-0207
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2014-0236
+	 CVE-2014-0237
+	 CVE-2014-0238
+	 CVE-2014-1692
+	 CVE-2014-2020
+	 CVE-2014-2270
+	 CVE-2014-2497
+	 CVE-2014-2532
+	 CVE-2014-2653
+	 CVE-2014-3478
+	 CVE-2014-3479
+	 CVE-2014-3480
+	 CVE-2014-3487
+	 CVE-2014-3515
+	 CVE-2014-3587
+	 CVE-2014-3597
+	 CVE-2014-3668
+	 CVE-2014-3669
+	 CVE-2014-3670
+	 CVE-2014-3981
+	 CVE-2014-4049
+	 CVE-2014-4670
+	 CVE-2014-4721
+	 CVE-2014-5459
+	 CVE-2014-8142
+	 CVE-2014-9425
+	 CVE-2014-9426
+	 CVE-2014-9427
+	 CVE-2014-9652
+	 CVE-2014-9653
+	 CVE-2014-9705
+	 CVE-2014-9767
+	 CVE-2014-9912
+	 CVE-2015-0228
+	 CVE-2015-0231
+	 CVE-2015-0232
+	 CVE-2015-0273
+	 CVE-2015-1351
+	 CVE-2015-1352
+	 CVE-2015-2331
+	 CVE-2015-2348
+	 CVE-2015-2783
+	 CVE-2015-2787
+	 CVE-2015-3183
+	 CVE-2015-3307
+	 CVE-2015-3329
+	 CVE-2015-3330
+	 CVE-2015-3411
+	 CVE-2015-3412
+	 CVE-2015-4021
+	 CVE-2015-4022
+	 CVE-2015-4024
+	 CVE-2015-4025
+	 CVE-2015-4026
+	 CVE-2015-4116
+	 CVE-2015-4147
+	 CVE-2015-4148
+	 CVE-2015-4598
+	 CVE-2015-4599
+	 CVE-2015-4600
+	 CVE-2015-4601
+	 CVE-2015-4602
+	 CVE-2015-4603
+	 CVE-2015-4604
+	 CVE-2015-4605
+	 CVE-2015-4642
+	 CVE-2015-4643
+	 CVE-2015-4644
+	 CVE-2015-5352
+	 CVE-2015-5589
+	 CVE-2015-5590
+	 CVE-2015-5600
+	 CVE-2015-6563
+	 CVE-2015-6564
+	 CVE-2015-6831
+	 CVE-2015-6832
+	 CVE-2015-6833
+	 CVE-2015-6834
+	 CVE-2015-6835
+	 CVE-2015-6836
+	 CVE-2015-6837
+	 CVE-2015-6838
+	 CVE-2015-7803
+	 CVE-2015-7804
+	 CVE-2015-8835
+	 CVE-2015-8838
+	 CVE-2015-8865
+	 CVE-2015-8873
+	 CVE-2015-8874
+	 CVE-2015-8877
+	 CVE-2015-8879
+	 CVE-2015-8935
+	 CVE-2015-8994
+	 CVE-2015-9253
+	 CVE-2016-0777
+	 CVE-2016-0778
+	 CVE-2016-10009
+	 CVE-2016-10010
+	 CVE-2016-10011
+	 CVE-2016-10012
+	 CVE-2016-10158
+	 CVE-2016-10159
+	 CVE-2016-10161
+	 CVE-2016-10397
+	 CVE-2016-10708
+	 CVE-2016-10712
+	 CVE-2016-1903
+	 CVE-2016-1908
+	 CVE-2016-20012
+	 CVE-2016-2554
+	 CVE-2016-3141
+	 CVE-2016-3142
+	 CVE-2016-3185
+	 CVE-2016-4070
+	 CVE-2016-4342
+	 CVE-2016-4343
+	 CVE-2016-4537
+	 CVE-2016-4538
+	 CVE-2016-4539
+	 CVE-2016-4540
+	 CVE-2016-4541
+	 CVE-2016-4542
+	 CVE-2016-4543
+	 CVE-2016-4975
+	 CVE-2016-5093
+	 CVE-2016-5094
+	 CVE-2016-5095
+	 CVE-2016-5096
+	 CVE-2016-5114
+	 CVE-2016-5387
+	 CVE-2016-5399
+	 CVE-2016-5768
+	 CVE-2016-5769
+	 CVE-2016-5770
+	 CVE-2016-5771
+	 CVE-2016-5772
+	 CVE-2016-5773
+	 CVE-2016-6174
+	 CVE-2016-6288
+	 CVE-2016-6289
+	 CVE-2016-6290
+	 CVE-2016-6291
+	 CVE-2016-6292
+	 CVE-2016-6294
+	 CVE-2016-6295
+	 CVE-2016-6296
+	 CVE-2016-6297
+	 CVE-2016-7124
+	 CVE-2016-7125
+	 CVE-2016-7126
+	 CVE-2016-7127
+	 CVE-2016-7128
+	 CVE-2016-7129
+	 CVE-2016-7130
+	 CVE-2016-7131
+	 CVE-2016-7132
+	 CVE-2016-7411
+	 CVE-2016-7412
+	 CVE-2016-7413
+	 CVE-2016-7414
+	 CVE-2016-7416
+	 CVE-2016-7417
+	 CVE-2016-7418
+	 CVE-2016-7478
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2016-9137
+	 CVE-2016-9138
+	 CVE-2016-9934
+	 CVE-2016-9935
+	 CVE-2017-11142
+	 CVE-2017-11143
+	 CVE-2017-11144
+	 CVE-2017-11145
+	 CVE-2017-11628
+	 CVE-2017-12933
+	 CVE-2017-15906
+	 CVE-2017-16642
+	 CVE-2017-3167
+	 CVE-2017-3169
+	 CVE-2017-7272
+	 CVE-2017-7679
+	 CVE-2017-7890
+	 CVE-2017-7963
+	 CVE-2017-9224
+	 CVE-2017-9226
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-10545
+	 CVE-2018-10546
+	 CVE-2018-10547
+	 CVE-2018-10548
+	 CVE-2018-10549
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2018-14851
+	 CVE-2018-14883
+	 CVE-2018-15132
+	 CVE-2018-15473
+	 CVE-2018-17082
+	 CVE-2018-19395
+	 CVE-2018-19396
+	 CVE-2018-19520
+	 CVE-2018-20685
+	 CVE-2018-20783
+	 CVE-2018-7584
+	 CVE-2019-6109
+	 CVE-2019-6110
+	 CVE-2019-6111
+	 CVE-2019-9020
+	 CVE-2019-9021
+	 CVE-2019-9023
+	 CVE-2019-9024
+	 CVE-2019-9637
+	 CVE-2019-9638
+	 CVE-2019-9639
+	 CVE-2019-9641
+	 CVE-2020-15778
+	 CVE-2021-34798
+	 CVE-2021-36368
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31628
+	 CVE-2022-31629
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: KENWORTH SOUTH FLORIDA
+Ubicación do dispositivo: Fort Lauderdale, United States
+Portos detectados por Shodan:
+	 21
+	 1723
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: Chunghwa Telecom Co.,Ltd.
+Ubicación do dispositivo: Taipei, Taiwan
+Portos detectados por Shodan:
+	 21
+	 80
+	 143
+	 500
+	 3306
+	 5353
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2007-6750
+	 CVE-2009-1195
+	 CVE-2009-3555
+	 CVE-2011-0419
+	 CVE-2011-3192
+	 CVE-2011-3368
+	 CVE-2011-3607
+	 CVE-2011-4317
+	 CVE-2011-4415
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2013-1862
+	 CVE-2014-0231
+	 CVE-2015-0228
+	 CVE-2015-3183
+	 CVE-2016-8612
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 230 Login successful.
+	 214-The following commands are recognized.
+	  ABOR ACCT ALLO APPE CDUP CWD  DELE EPRT EPSV FEAT HELP LIST MDTM MKD
+	  MODE NLST NOOP OPTS PASS PASV PORT PWD  QUIT REIN REST RETR RMD  RNFR
+	  RNTO SITE SIZE SMNT STAT STOR STOU STRU SYST TYPE USER XCUP XCWD XMKD
+	  XPWD XRMD
+	 214 Help OK.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: CJSC ChitaNet
+Ubicación do dispositivo: Chita, Russian Federation
+Portos detectados por Shodan:
+	 21
+	 80
+	 9090
+	 9595
+Vulnerabilidades detectadas automáticamente por Shodan:
+	 CVE-2006-20001
+	 CVE-2008-0455
+	 CVE-2010-4657
+	 CVE-2011-0419
+	 CVE-2011-1398
+	 CVE-2011-3192
+	 CVE-2011-3336
+	 CVE-2011-3348
+	 CVE-2011-3379
+	 CVE-2011-3639
+	 CVE-2011-4078
+	 CVE-2011-4153
+	 CVE-2011-4566
+	 CVE-2011-4718
+	 CVE-2011-4885
+	 CVE-2012-0021
+	 CVE-2012-0031
+	 CVE-2012-0053
+	 CVE-2012-0057
+	 CVE-2012-0781
+	 CVE-2012-0788
+	 CVE-2012-0789
+	 CVE-2012-0831
+	 CVE-2012-0883
+	 CVE-2012-1171
+	 CVE-2012-1172
+	 CVE-2012-1823
+	 CVE-2012-2143
+	 CVE-2012-2311
+	 CVE-2012-2336
+	 CVE-2012-2376
+	 CVE-2012-2386
+	 CVE-2012-2687
+	 CVE-2012-2688
+	 CVE-2012-3365
+	 CVE-2012-3450
+	 CVE-2012-3499
+	 CVE-2012-4388
+	 CVE-2012-4557
+	 CVE-2012-4558
+	 CVE-2013-1635
+	 CVE-2013-1643
+	 CVE-2013-1824
+	 CVE-2013-1862
+	 CVE-2013-1896
+	 CVE-2013-2110
+	 CVE-2013-4113
+	 CVE-2013-4248
+	 CVE-2013-4635
+	 CVE-2013-5704
+	 CVE-2013-6420
+	 CVE-2013-6438
+	 CVE-2013-6501
+	 CVE-2013-6712
+	 CVE-2013-7327
+	 CVE-2014-0098
+	 CVE-2014-0118
+	 CVE-2014-0185
+	 CVE-2014-0207
+	 CVE-2014-0226
+	 CVE-2014-0231
+	 CVE-2014-0236
+	 CVE-2014-0237
+	 CVE-2014-0238
+	 CVE-2014-2020
+	 CVE-2014-2270
+	 CVE-2014-2497
+	 CVE-2014-3478
+	 CVE-2014-3479
+	 CVE-2014-3480
+	 CVE-2014-3487
+	 CVE-2014-3515
+	 CVE-2014-3587
+	 CVE-2014-3597
+	 CVE-2014-3668
+	 CVE-2014-3669
+	 CVE-2014-3670
+	 CVE-2014-3981
+	 CVE-2014-4049
+	 CVE-2014-4670
+	 CVE-2014-4721
+	 CVE-2014-5459
+	 CVE-2014-8142
+	 CVE-2014-9425
+	 CVE-2014-9426
+	 CVE-2014-9427
+	 CVE-2014-9652
+	 CVE-2014-9653
+	 CVE-2014-9705
+	 CVE-2014-9767
+	 CVE-2014-9912
+	 CVE-2015-0228
+	 CVE-2015-0231
+	 CVE-2015-0232
+	 CVE-2015-0273
+	 CVE-2015-1351
+	 CVE-2015-1352
+	 CVE-2015-2331
+	 CVE-2015-2348
+	 CVE-2015-2783
+	 CVE-2015-2787
+	 CVE-2015-3183
+	 CVE-2015-3307
+	 CVE-2015-3329
+	 CVE-2015-3330
+	 CVE-2015-3411
+	 CVE-2015-3412
+	 CVE-2015-4021
+	 CVE-2015-4022
+	 CVE-2015-4024
+	 CVE-2015-4025
+	 CVE-2015-4026
+	 CVE-2015-4116
+	 CVE-2015-4147
+	 CVE-2015-4148
+	 CVE-2015-4598
+	 CVE-2015-4599
+	 CVE-2015-4600
+	 CVE-2015-4601
+	 CVE-2015-4602
+	 CVE-2015-4603
+	 CVE-2015-4604
+	 CVE-2015-4605
+	 CVE-2015-4642
+	 CVE-2015-4643
+	 CVE-2015-4644
+	 CVE-2015-5589
+	 CVE-2015-5590
+	 CVE-2015-6831
+	 CVE-2015-6832
+	 CVE-2015-6833
+	 CVE-2015-6834
+	 CVE-2015-6835
+	 CVE-2015-6836
+	 CVE-2015-6837
+	 CVE-2015-6838
+	 CVE-2015-7803
+	 CVE-2015-7804
+	 CVE-2015-8835
+	 CVE-2015-8838
+	 CVE-2015-8865
+	 CVE-2015-8873
+	 CVE-2015-8874
+	 CVE-2015-8877
+	 CVE-2015-8879
+	 CVE-2015-8935
+	 CVE-2015-8994
+	 CVE-2015-9253
+	 CVE-2016-10158
+	 CVE-2016-10159
+	 CVE-2016-10161
+	 CVE-2016-10397
+	 CVE-2016-10712
+	 CVE-2016-1903
+	 CVE-2016-2554
+	 CVE-2016-3141
+	 CVE-2016-3142
+	 CVE-2016-3185
+	 CVE-2016-4070
+	 CVE-2016-4342
+	 CVE-2016-4343
+	 CVE-2016-4537
+	 CVE-2016-4538
+	 CVE-2016-4539
+	 CVE-2016-4540
+	 CVE-2016-4541
+	 CVE-2016-4542
+	 CVE-2016-4543
+	 CVE-2016-4975
+	 CVE-2016-5093
+	 CVE-2016-5094
+	 CVE-2016-5095
+	 CVE-2016-5096
+	 CVE-2016-5114
+	 CVE-2016-5387
+	 CVE-2016-5399
+	 CVE-2016-5768
+	 CVE-2016-5769
+	 CVE-2016-5770
+	 CVE-2016-5771
+	 CVE-2016-5772
+	 CVE-2016-5773
+	 CVE-2016-6174
+	 CVE-2016-6288
+	 CVE-2016-6289
+	 CVE-2016-6290
+	 CVE-2016-6291
+	 CVE-2016-6292
+	 CVE-2016-6294
+	 CVE-2016-6295
+	 CVE-2016-6296
+	 CVE-2016-6297
+	 CVE-2016-7124
+	 CVE-2016-7125
+	 CVE-2016-7126
+	 CVE-2016-7127
+	 CVE-2016-7128
+	 CVE-2016-7129
+	 CVE-2016-7130
+	 CVE-2016-7131
+	 CVE-2016-7132
+	 CVE-2016-7411
+	 CVE-2016-7412
+	 CVE-2016-7413
+	 CVE-2016-7414
+	 CVE-2016-7416
+	 CVE-2016-7417
+	 CVE-2016-7418
+	 CVE-2016-7478
+	 CVE-2016-8612
+	 CVE-2016-8743
+	 CVE-2016-9137
+	 CVE-2016-9138
+	 CVE-2016-9934
+	 CVE-2016-9935
+	 CVE-2017-11142
+	 CVE-2017-11143
+	 CVE-2017-11144
+	 CVE-2017-11145
+	 CVE-2017-11628
+	 CVE-2017-12933
+	 CVE-2017-16642
+	 CVE-2017-3167
+	 CVE-2017-3169
+	 CVE-2017-7272
+	 CVE-2017-7679
+	 CVE-2017-7890
+	 CVE-2017-7963
+	 CVE-2017-9224
+	 CVE-2017-9226
+	 CVE-2017-9788
+	 CVE-2017-9798
+	 CVE-2018-10545
+	 CVE-2018-10546
+	 CVE-2018-10547
+	 CVE-2018-10548
+	 CVE-2018-10549
+	 CVE-2018-1301
+	 CVE-2018-1302
+	 CVE-2018-1303
+	 CVE-2018-14851
+	 CVE-2018-14883
+	 CVE-2018-15132
+	 CVE-2018-17082
+	 CVE-2018-19395
+	 CVE-2018-19396
+	 CVE-2018-19520
+	 CVE-2018-20783
+	 CVE-2018-7584
+	 CVE-2019-9020
+	 CVE-2019-9021
+	 CVE-2019-9023
+	 CVE-2019-9024
+	 CVE-2019-9637
+	 CVE-2019-9638
+	 CVE-2019-9639
+	 CVE-2019-9641
+	 CVE-2021-34798
+	 CVE-2021-39275
+	 CVE-2021-40438
+	 CVE-2021-44790
+	 CVE-2022-22719
+	 CVE-2022-22720
+	 CVE-2022-22721
+	 CVE-2022-28330
+	 CVE-2022-28614
+	 CVE-2022-28615
+	 CVE-2022-29404
+	 CVE-2022-30556
+	 CVE-2022-31628
+	 CVE-2022-31629
+	 CVE-2022-31813
+	 CVE-2022-37436
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: NTS Communications, LLC
+Ubicación do dispositivo: Lubbock, United States
+Portos detectados por Shodan:
+	 21
+	 5060
+	 6002
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
+
+--------------------------------------------------
+Resposta do servicio:
+	 220 (vsFTPd 2.3.4)
+	 530 Login incorrect.
+	 530 Please login with USER and PASS.
+	 211-Features:
+	  EPRT
+	  EPSV
+	  MDTM
+	  PASV
+	  REST STREAM
+	  SIZE
+	  TVFS
+	  UTF8
+	 211 End
+
+Organización á que pertence: BT Infrastructure Layer
+Ubicación do dispositivo: Basingstoke, United Kingdom
+Portos detectados por Shodan:
+	 21
+	 23
+	 69
+	 79
+	 113
+Vulnerabilidades detectadas automáticamente por Shodan:
+	Ningunha
